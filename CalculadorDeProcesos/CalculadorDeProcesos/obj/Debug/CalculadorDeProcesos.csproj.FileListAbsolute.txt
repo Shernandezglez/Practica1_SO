@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\bin\Debug\CalculadorDeProcesos.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\bin\Debug\CalculadorDeProcesos.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\bin\Debug\CalculadorDeProcesos.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\obj\Debug\CalculadorDeProcesos.csprojResolveAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\obj\Debug\CalculadorDeProcesos.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\obj\Debug\CalculadorDeProcesos.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\obj\Debug\CalculadorDeProcesos.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\obj\Debug\CalculadorDeProcesos.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\obj\Debug\CalculadorDeProcesos.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\CalculadorDeProcesos\CalculadorDeProcesos\obj\Debug\CalculadorDeProcesos.pdb
